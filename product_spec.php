@@ -43,7 +43,7 @@
 			<div class="col-md-3">
 				<img src="/images/samsung-s7edge.jpg" alt="Christmas" width="750" />
 				<br /> Released 2016, March 152g, 7.9mm thickness Android OS, v6.0
-				32/64GB storage, microSD card slot -Fix2
+				32/64GB storage, microSD card slot
 			</div>
 		</div>
 
